@@ -148,9 +148,12 @@ DecodeLabs-Internship/
 ├── README.md
 │
 ├── screenshots/
-│   ├── project1.png
-│   ├── project2.png
-│   └── project3.png
+│   ├── project1.1.png
+│   ├── project1.2.png
+│   ├── project2.1.png
+│   ├── project2.2.png
+│   ├── project3.1.png
+│   └── project3.2.png
 ```
 
 ---
