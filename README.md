@@ -30,6 +30,8 @@ A GUI-based Python application that checks whether a password is weak, medium, o
 
 ```bash
 python Project1.py
+```
+
 ## 2️⃣ Caesar Cipher Encryption 🔒
 
 A cyber security project built using Python that performs text encryption and decryption using Caesar Cipher logic.
