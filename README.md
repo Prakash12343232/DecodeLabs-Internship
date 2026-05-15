@@ -108,19 +108,19 @@ python Project3.py
 
 ## Password Strength Checker
 
-![Project 1](screenshots/project1.png)
+![Project 1](screenshots/Project1.1.png)
 
 ---
 
 ## Caesar Cipher Encryption
 
-![Project 2](screenshots/project2.png)
+![Project 2](screenshots/Project2.1.png)
 
 ---
 
 ## Phishing Awareness Analyzer
 
-![Project 3](screenshots/project3.png)
+![Project 3](screenshots/Project3.1.png)
 
 ---
 
