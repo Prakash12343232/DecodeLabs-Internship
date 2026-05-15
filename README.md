@@ -8,6 +8,7 @@ These projects focus on:
 * Encryption & Decryption
 * Phishing Awareness
 * Threat Detection
+* System Auditing
 * Cyber Security Fundamentals
 
 ---
@@ -104,6 +105,34 @@ python Project3.py
 
 ---
 
+# 4️⃣ System Vulnerability Checklist 🛡️
+
+A professional, modern Cyber Security auditing tool that performs local system security assessments and provides actionable recommendations.
+
+## Features
+
+* Advanced Risk Assessment
+* Firewall Status Audit
+* Access Control Monitoring (Guest account & Admin privileges)
+* System Hardening Analysis (UAC & Password Policy)
+* Modern Dark Cyber Security Dashboard
+* Real-time Custom Risk Gauge
+* Non-blocking asynchronous scan engine
+
+## Technologies Used
+
+* Python
+* Tkinter
+* Subprocess & Winreg
+
+## Run Project
+
+```bash
+python Project4.py
+```
+
+---
+
 # 📸 Project Screenshots
 
 ## Password Strength Checker
@@ -124,6 +153,12 @@ python Project3.py
 
 ---
 
+## System Vulnerability Checklist
+
+![Project 4](screenshots/Project4.png)
+
+---
+
 # 🎯 Skills Learned
 
 * Python Programming
@@ -134,6 +169,8 @@ python Project3.py
 * Security Awareness
 * Input Validation
 * Risk Analysis
+* System Auditing
+* OS API Integration
 
 ---
 
@@ -145,15 +182,17 @@ DecodeLabs-Internship/
 ├── Project1.py
 ├── Project2.py
 ├── Project3.py
+├── Project4.py
 ├── README.md
 │
 ├── screenshots/
-│   ├── project1.1.png
-│   ├── project1.2.png
-│   ├── project2.1.png
-│   ├── project2.2.png
-│   ├── project3.1.png
-│   └── project3.2.png
+│   ├── Project1.1.png
+│   ├── Project1.2.png
+│   ├── Project2.1.png
+│   ├── Project2.2.png
+│   ├── Project3.1.png
+│   ├── Project3.2.png
+│   └── Project4.png
 ```
 
 ---
